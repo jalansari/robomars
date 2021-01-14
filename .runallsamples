@@ -1,0 +1,10 @@
+#!/bin/bash
+
+./robomars.py tests/testfiles
+./robomars.py tests/testfiles/sample_input_empty
+./robomars.py tests/testfiles/sample_input_err_no_inst
+./robomars.py tests/testfiles/sample_input_err_grid
+
+./robomars.py tests/testfiles/sample_input_noblanklines
+./robomars.py tests/testfiles/sample_input_single
+./robomars.py tests/testfiles/sample_input
