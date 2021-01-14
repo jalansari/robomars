@@ -15,9 +15,7 @@
                 "PYTHONPATH": "."
             },
             "args": [
-                "--capture=no",
-                // "tests/test_0_instructionfile_gridextents.py::TestInstructionFile_GridExtents::test_read_grid_extents"
-                // "tests/test_1_instructionfile_instructions.py::TestInstructionFile_Instructions"
+                "--capture=no"
             ]
         },
         {

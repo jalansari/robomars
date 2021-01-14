@@ -5,5 +5,5 @@
     "python.linting.lintOnSave": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pycodestyleEnabled": true,
-    "python.linting.pycodestyleArgs": ["--max-line-length=200"] // "--ignore=E501"]
+    "python.linting.pycodestyleArgs": ["--max-line-length=200"]
 }
